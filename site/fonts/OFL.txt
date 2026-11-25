@@ -1,0 +1,6 @@
+These font files are redistributed under the SIL Open Font License, Version 1.1.
+
+Families: Montserrat, Montserrat Alternates, Geist Mono, Roboto Mono,
+Cormorant Garamond, Onest, Rubik.
+
+https://scripts.sil.org/OFL
